@@ -46,7 +46,7 @@ for i in range(r):
             o += 1
         if a[j] == "v":
             v += 1
-    s.append(a)
+    # s.append(a)
 
 for i in range(r):
     for j in range(c):

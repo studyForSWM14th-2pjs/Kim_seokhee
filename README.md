@@ -3,7 +3,7 @@
    * [x] [15900](https://www.acmicpc.net/problem/15900)
    * [x] [3184](https://www.acmicpc.net/problem/3184)
    * [x] [12852](https://www.acmicpc.net/problem/12852)
-   * [ ] [9009](https://www.acmicpc.net/problem/9009)
+   * [x] [9009](https://www.acmicpc.net/problem/9009)
    * [ ] [14575](https://www.acmicpc.net/problem/14575)
    * [ ] [5014](https://www.acmicpc.net/problem/5014)
    * [ ] [15686](https://www.acmicpc.net/problem/15686)

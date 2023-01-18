@@ -2,7 +2,6 @@
 * 백준
    * [x] [15900](https://www.acmicpc.net/problem/15900)
    * [x] [3184](https://www.acmicpc.net/problem/3184)
-   * [x] [3187](https://www.acmicpc.net/problem/3187)
    * [x] [12852](https://www.acmicpc.net/problem/12852)
    * [ ] [9009](https://www.acmicpc.net/problem/9009)
    * [ ] [14575](https://www.acmicpc.net/problem/14575)

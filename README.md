@@ -25,3 +25,12 @@
 * 프로그래머스
     * [x] [43165](https://programmers.co.kr/learn/courses/30/lessons/43165)
     * [x] [1844](https://programmers.co.kr/learn/courses/30/lessons/1844)
+# 4주차
+* 백준
+   * [x] [2295](https://www.acmicpc.net/problem/2295)
+   * [x] [1197](https://www.acmicpc.net/problem/1197)
+   * [ ] [1240](https://www.acmicpc.net/problem/1240)
+   * [ ] [15652](https://www.acmicpc.net/problem/15652)
+   * [ ] [1448](https://www.acmicpc.net/problem/1448)
+   * [ ] [1912](https://www.acmicpc.net/problem/1912)
+   * [ ] [7662](https://www.acmicpc.net/problem/7662)

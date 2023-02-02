@@ -7,8 +7,6 @@ u = set()
 for i in range(n):
     u.add(int(input()))
 
-print(u)
-
 a_b_sums = set()
 for i in u:
     for j in u:

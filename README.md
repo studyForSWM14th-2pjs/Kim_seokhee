@@ -33,4 +33,4 @@
    * [x] [15652](https://www.acmicpc.net/problem/15652)
    * [x] [1448](https://www.acmicpc.net/problem/1448)
    * [x] [1912](https://www.acmicpc.net/problem/1912)
-   * [ ] [7662](https://www.acmicpc.net/problem/7662)
+   * [x] [7662](https://www.acmicpc.net/problem/7662)
